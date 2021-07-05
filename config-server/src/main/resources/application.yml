@@ -8,4 +8,4 @@ spring:
       server:
         git:
           uri: https://github.com/oswaldoneto/dio-experts-config.git
-          #uri: https://github.com/NeiTDutra/dio-microservicos-spring-cloud/tree/master/config
+          #uri: https://github.com/NeiTDutra/dio-microservice-config-server.git
