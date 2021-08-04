@@ -6,9 +6,6 @@
 
 Projeto de desenvolvimento de microserviços com Spring Boot e Java
 
-Projeto original bifurcado de [oswaldoneto /
-dio-experts](https://github.com/oswaldoneto/dio-experts)
-
 *"Construindo um projeto com arquitetura baseada em microsserviços usando Spring Cloud"*
 
 ## Tecnologias
