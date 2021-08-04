@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/microservices-spring_cloud.iml" filepath="$PROJECT_DIR$/.idea/microservices-spring_cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Santander_Microservicos_Spring_Cloud.iml" filepath="$PROJECT_DIR$/.idea/Santander_Microservicos_Spring_Cloud.iml" />
     </modules>
   </component>
 </project>
